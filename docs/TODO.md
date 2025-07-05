@@ -1,8 +1,8 @@
 # TODO List – Nutri Fit & Fun Redesign
 
 ## 1. Project Initialization
-- [ ] Create GitHub repository
-- [ ] Initialize Nuxt (Vue.js) project
+- [x] Create GitHub repository
+- [x] Initialize Nuxt (Vue.js) project
 - [ ] Configure Tailwind CSS
 - [ ] Configure Supabase (connection, base tables)
 - [ ] Initial deployment (Vercel/Netlify)
