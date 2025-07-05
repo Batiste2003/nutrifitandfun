@@ -3,7 +3,7 @@
 ## 1. Project Initialization
 - [x] Create GitHub repository
 - [x] Initialize Nuxt (Vue.js) project
-- [ ] Configure Tailwind CSS
+- [x] Configure Tailwind CSS
 - [ ] Configure Supabase (connection, base tables)
 - [ ] Initial deployment (Vercel/Netlify)
 
@@ -74,3 +74,5 @@
 - [ ] Privacy policy
 
 ---
+
+Add, edit, or check off tasks as the project progresses!
